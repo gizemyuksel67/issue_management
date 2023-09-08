@@ -1,0 +1,36 @@
+package com.gizem.issue_management.dto;
+
+import com.gizem.issue_management.entity.User;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+import javax.validation.constraints.NotNull;
+
+
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ApiModel(value = "Project Data Transfer Object")
+public class ProjectDTO {
+
+    @ApiModelProperty(value = "Project ID")
+    private Long id;
+    @NotNull
+    @ApiModelProperty(required = true,value = "Code Of Project")
+    private String projectCode;
+    @NotNull
+    @ApiModelProperty(required = true,value = "Name Of Project")
+    private String projectName;
+    @ApiModelProperty(required = true,value = "Project Manager ID")
+    private Long managerId;
+    @ApiModelProperty(required = true,value = "Project Manager Name")
+    private UserDTO manager;
+
+
+
+
+
+}

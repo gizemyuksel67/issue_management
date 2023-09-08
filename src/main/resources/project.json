@@ -1,0 +1,43 @@
+[
+  {
+    "_class": "com.gizem.issue_management.entity.Project",
+    "projectCode" : "aejjsbnhdf",
+    "projectName": "Isueb sMajnhdfagement Prect"
+  },
+  {
+    "_class": "com.gizem.issue_management.entity.Project",
+    "projectCode" : "araejjsblhdf",
+    "projectName": "ERP aPbjshdfroject for Sals"
+  },
+  {
+    "_class": "com.gizem.issue_management.entity.Project",
+    "projectCode" : "AKbuajhsdf",
+    "projectName": "CRM bPhajfsdroject for Sale"
+  },
+  {
+    "_class": "com.gizem.issue_management.entity.Project",
+    "projectCode" : "koamhbsfjd",
+    "projectName": "CRM haPfbsdjroject for Business"
+  },
+  {
+    "_class": "com.gizem.issue_management.entity.Project",
+    "projectCode" : "Pphpbfjads",
+    "projectName": "ERhP fPbajsrojedct for Bussiess"
+  },
+  {
+    "_class": "com.gizem.issue_management.entity.Project",
+    "projectCode" : "hYUfatbsj",
+    "projectName": "hTefsta bsjProjec"
+  },
+  {
+    "_class": "com.gizem.issue_management.entity.User",
+    "username" : "Ghizfem Yaübsjks",
+    "email":"frhabhjsf"
+  },
+  {
+    "_class": "com.gizem.issue_management.entity.User",
+    "username" : "bjtsdhamtfhslt",
+    "nameSurname": "fhdjsbTaimothee Schalat",
+    "email":"kledajfhs"
+  }
+]
